@@ -2,8 +2,9 @@
 <title id="t">Metanyx</title>
 <g transform="translate(4 8)">
   <rect width="80" height="80" rx="17" fill="#f3f6fa" stroke="#d9dee6"/>
-  <path d="M15 57V23l25 25 25-25v34" fill="none" stroke="#579100" stroke-width="7" stroke-linejoin="miter"/>
-  <circle cx="40" cy="48" r="3.8" fill="#07090d"/>
+  <path d="M14 59V21L36 45" fill="none" stroke="#579100" stroke-width="7" stroke-linejoin="miter"/>
+  <path d="M66 59V21L44 45" fill="none" stroke="#579100" stroke-width="7" stroke-linejoin="miter"/>
+  <rect x="36.5" y="41.5" width="7" height="7" transform="rotate(45 40 45)" fill="#07090d"/>
 </g>
 <text x="105" y="63" fill="#07090d" font-size="51" font-weight="700" letter-spacing="-2.2" font-family="Inter,Segoe UI,Arial,sans-serif">Metanyx</text>
 <path d="M108 76h188" stroke="#579100" stroke-width="2"/>

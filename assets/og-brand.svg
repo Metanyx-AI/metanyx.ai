@@ -7,8 +7,9 @@
 <rect width="1200" height="630" fill="#07090d"/><rect width="1200" height="630" fill="url(#p)"/><rect width="1200" height="630" fill="url(#g)"/>
 <g transform="translate(74 72)">
   <rect width="92" height="92" rx="20" fill="#0c1017" stroke="#263244"/>
-  <path d="M17 66V26l29 29 29-29v40" fill="none" stroke="#adff2f" stroke-width="8" stroke-linejoin="miter"/>
-  <circle cx="46" cy="55" r="4.5" fill="#f3f6fa"/>
+  <path d="M17 68V24L42 51" fill="none" stroke="#adff2f" stroke-width="8" stroke-linejoin="miter"/>
+  <path d="M75 68V24L50 51" fill="none" stroke="#adff2f" stroke-width="8" stroke-linejoin="miter"/>
+  <rect x="42.5" y="47.5" width="7" height="7" transform="rotate(45 46 51)" fill="#f3f6fa"/>
 </g>
 <text x="190" y="139" fill="#f3f6fa" font-size="66" font-weight="700" letter-spacing="-3" font-family="Inter,Segoe UI,Arial,sans-serif">Metanyx</text>
 <text x="76" y="315" fill="#f3f6fa" font-size="74" font-weight="800" letter-spacing="-3.5" font-family="Inter,Segoe UI,Arial,sans-serif">Markets move.</text>

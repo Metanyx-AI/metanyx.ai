@@ -28,7 +28,7 @@ Upload to Bunny Storage (or your origin), enable the Pull Zone, set `index.html`
 
 
 ## Brand assets
-The site uses the mixed-case **Metanyx** corporate wordmark. Uppercase typography is retained for high-impact campaign headlines and interface labels.
+The site uses the mixed-case **Metanyx** corporate wordmark. The primary symbol is a split angular M converging on a central execution node, referencing fragmented market inputs meeting at one decision point. Uppercase typography is retained for high-impact campaign headlines and interface labels.
 
 - `assets/logo-symbol.svg` — standalone brand symbol
 - `assets/logo-wordmark.svg` — primary wordmark for dark backgrounds
