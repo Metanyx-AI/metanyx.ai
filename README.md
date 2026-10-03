@@ -25,3 +25,16 @@ Upload to Bunny Storage (or your origin), enable the Pull Zone, set `index.html`
 - Submit `/sitemap.xml`.
 - Map important historical metanyx.com URLs to relevant new URLs with 301 redirects rather than redirecting everything blindly to the homepage.
 - Keep claims about third-party networks/venues current.
+
+
+## Brand assets
+The site uses the mixed-case **Metanyx** corporate wordmark. Uppercase typography is retained for high-impact campaign headlines and interface labels.
+
+- `assets/logo-symbol.svg` — standalone brand symbol
+- `assets/logo-wordmark.svg` — primary wordmark for dark backgrounds
+- `assets/logo-wordmark-light.svg` — wordmark for light backgrounds
+- `assets/logo-mono.svg` — monochrome wordmark
+- `assets/favicon.svg` — compact browser icon
+- `assets/og-brand.svg` — social/share artwork
+
+Primary palette: carbon `#07090D`, white `#F3F6FA`, signal lime `#ADFF2F`.
