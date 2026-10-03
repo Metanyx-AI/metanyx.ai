@@ -1,1 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://metanyx.ai/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://metanyx.ai/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://metanyx.ai/platform/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://metanyx.ai/market-making/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://metanyx.ai/research/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://metanyx.ai/about/</loc><lastmod>2026-10-03</lastmod></url>
+</urlset>
