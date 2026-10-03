@@ -1,19 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="t">
-<title id="t">Metanyx — AI-native quantitative trading</title>
-<defs>
-  <radialGradient id="g" cx="75%" cy="20%" r="75%"><stop stop-color="#adff2f" stop-opacity=".16"/><stop offset="1" stop-color="#07090d" stop-opacity="0"/></radialGradient>
-  <pattern id="p" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#1a2230" stroke-width="1"/></pattern>
-</defs>
-<rect width="1200" height="630" fill="#07090d"/><rect width="1200" height="630" fill="url(#p)"/><rect width="1200" height="630" fill="url(#g)"/>
-<g transform="translate(74 72)">
-  <rect width="92" height="92" rx="20" fill="#0c1017" stroke="#263244"/>
-  <path d="M17 68V24L42 51" fill="none" stroke="#adff2f" stroke-width="8" stroke-linejoin="miter"/>
-  <path d="M75 68V24L50 51" fill="none" stroke="#adff2f" stroke-width="8" stroke-linejoin="miter"/>
-  <rect x="42.5" y="47.5" width="7" height="7" transform="rotate(45 46 51)" fill="#f3f6fa"/>
-</g>
-<text x="190" y="139" fill="#f3f6fa" font-size="66" font-weight="700" letter-spacing="-3" font-family="Inter,Segoe UI,Arial,sans-serif">Metanyx</text>
-<text x="76" y="315" fill="#f3f6fa" font-size="74" font-weight="800" letter-spacing="-3.5" font-family="Inter,Segoe UI,Arial,sans-serif">Markets move.</text>
-<text x="76" y="393" fill="#adff2f" font-size="74" font-weight="800" letter-spacing="-3.5" font-family="Inter,Segoe UI,Arial,sans-serif">Metanyx moves first.</text>
-<text x="78" y="468" fill="#8793a4" font-size="27" font-family="Inter,Segoe UI,Arial,sans-serif">AI-native quantitative trading · adaptive strategies · machine-speed execution</text>
-<path d="M78 530H1122" stroke="#1a2230"/><text x="78" y="574" fill="#8793a4" font-size="20" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">metanyx.ai   /   SELF-CUSTODIAL BY DESIGN</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="t"><title id="t">Metanyx — Predict. Adapt. Trade.</title>
+<defs><radialGradient id="r" cx="80%" cy="25%" r="70%"><stop stop-color="#2563FF" stop-opacity=".28"/><stop offset=".5" stop-color="#8B5CF6" stop-opacity=".08"/><stop offset="1" stop-color="#07111F" stop-opacity="0"/></radialGradient><linearGradient id="a"><stop stop-color="#2563FF"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient><pattern id="p" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M50 0H0V50" fill="none" stroke="#17263B"/></pattern></defs>
+<rect width="1200" height="630" fill="#07111F"/><rect width="1200" height="630" fill="url(#p)" opacity=".55"/><rect width="1200" height="630" fill="url(#r)"/>
+<g transform="translate(72 66) scale(.2)"><path d="M94 382V118l161 166 67-68v116l-67 68-97-100v82z" fill="url(#a)"/><path d="M418 382V94L286 222l58 58 10-10v112z" fill="url(#a)"/></g>
+<text x="190" y="140" fill="#F8FAFC" font-size="54" font-weight="600" letter-spacing="14" font-family="Inter,Segoe UI,Arial,sans-serif">META</text><text x="422" y="140" fill="#22D3EE" font-size="54" font-weight="600" letter-spacing="14" font-family="Inter,Segoe UI,Arial,sans-serif">NYX</text>
+<text x="78" y="330" fill="#F8FAFC" font-size="76" font-weight="750" letter-spacing="-3" font-family="Inter,Segoe UI,Arial,sans-serif">Markets move.</text><text x="78" y="412" fill="url(#a)" font-size="76" font-weight="750" letter-spacing="-3" font-family="Inter,Segoe UI,Arial,sans-serif">Metanyx moves first.</text>
+<text x="80" y="482" fill="#8EA0B8" font-size="24" letter-spacing="6" font-family="Inter,Segoe UI,Arial,sans-serif">PREDICT. ADAPT. TRADE.</text><text x="80" y="560" fill="#6B7D96" font-size="20" font-family="ui-monospace,Consolas,monospace">AI-NATIVE QUANTITATIVE TRADING INFRASTRUCTURE  /  METANYX.AI</text></svg>
