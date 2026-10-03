@@ -1,7 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 96 96" role="img" aria-labelledby="t">
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="t">
 <title id="t">Metanyx symbol</title>
-<rect width="96" height="96" rx="20" fill="#07090d"/>
-<path d="M16 69V27L44 57" fill="none" stroke="#adff2f" stroke-width="8" stroke-linecap="square" stroke-linejoin="miter"/>
-<path d="M80 69V27L52 57" fill="none" stroke="#adff2f" stroke-width="8" stroke-linecap="square" stroke-linejoin="miter"/>
-<rect x="44.5" y="53.5" width="7" height="7" transform="rotate(45 48 57)" fill="#f3f6fa"/>
+<defs>
+ <linearGradient id="a" x1="64" y1="80" x2="430" y2="430" gradientUnits="userSpaceOnUse"><stop stop-color="#8BE7FF"/><stop offset=".28" stop-color="#2563FF"/><stop offset=".64" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+ <linearGradient id="b" x1="420" y1="65" x2="130" y2="430" gradientUnits="userSpaceOnUse"><stop stop-color="#3157FF"/><stop offset=".55" stop-color="#7C4DFF"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+ <filter id="g" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="14" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="512" height="512" rx="112" fill="#07111F"/>
+<path d="M94 382V118l161 166 67-68 0 116-67 68L158 300v82z" fill="url(#a)" filter="url(#g)"/>
+<path d="M418 382V94L286 222l58 58 10-10v112z" fill="url(#b)" filter="url(#g)"/>
+<path d="M94 118l64 65v199H94z" fill="#8BE7FF" opacity=".42"/>
+<path d="M418 94l-64 62v226h64z" fill="#3157FF" opacity=".62"/>
 </svg>
