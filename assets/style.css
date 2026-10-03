@@ -57,3 +57,6 @@ body{background:radial-gradient(circle at 78% 4%,#38b64b12,transparent 28%),#050
 .engine-node,.market-node{background:#050806e8;border-color:#243329}.engine-node{box-shadow:0 0 60px #65d43d18}
 .signal-track{background:linear-gradient(90deg,transparent,#159447,#65d43d,#b6ff3b,transparent)}
 .lock{color:#8ee64b;text-shadow:0 0 50px #65d43d44}.page-hero{background:radial-gradient(circle at 80% 20%,#39b84a14,transparent 34%),radial-gradient(circle at 68% 36%,#b6ff3b08,transparent 26%)}
+
+/* Text brand lockup — no spacing between META and NYX */
+.metanyx-text{display:inline-flex;align-items:baseline;white-space:nowrap;font:inherit;letter-spacing:inherit}.metanyx-text .meta{background:linear-gradient(110deg,#d4d8d5,#8d9690 58%,#4a524d);-webkit-background-clip:text;background-clip:text;color:transparent}.metanyx-text .nyx{background:linear-gradient(110deg,#168f49,#38c968 55%,#a8ff5a);-webkit-background-clip:text;background-clip:text;color:transparent}
