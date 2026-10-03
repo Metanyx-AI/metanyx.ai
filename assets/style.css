@@ -45,3 +45,15 @@ h2 span,h3 span,.capability>span,.principles span,.story-kicker,.story-card>stro
 /* Unified Metanyx identity: brand name is always a single visual unit */
 .brand-logo{width:210px;max-width:100%;height:auto}.footer-logo{width:235px}
 @media(max-width:900px){.brand-logo{width:178px}}
+
+/* Metanyx green/black trading identity */
+:root{--bg:#050806;--panel:#0a100c;--line:#18221b;--text:#f5f8f5;--muted:#91a097;--acid:#b6ff3b;--blue:#16a34a;--violet:#65d43d;--cyan:#b6ff3b;--brand-gradient:linear-gradient(110deg,#159447 0%,#55c936 48%,#b6ff3b 100%)}
+body{background:radial-gradient(circle at 78% 4%,#38b64b12,transparent 28%),#050806}
+.nav{background:#050806ed;border-color:#18221b}.pill{border-color:#58cf39;color:#caff72;background:#56c9360a}.pill:hover{background:#6cdd4018;border-color:#b6ff3b}
+.pulse{background:#b6ff3b;box-shadow:0 0 18px #b6ff3b}.hero{background:radial-gradient(circle at 78% 38%,#39b84a15,transparent 31%),radial-gradient(circle at 63% 53%,#b6ff3b08,transparent 28%)}
+.cta{background:var(--brand-gradient);color:#071007;box-shadow:0 12px 36px #56c93620}
+.feature,.capability,.story-card{background:radial-gradient(circle at 85% 10%,#63d23e0b,transparent 32%),linear-gradient(145deg,#0a100c,#050806)}
+.orbit{border-color:#63d23e2c}.orbit-b{border-color:#b6ff3b16}.signal-lines path{stroke:#b6ff3b58}.signal-lines circle{fill:#b6ff3b;filter:drop-shadow(0 0 9px #b6ff3b)}
+.engine-node,.market-node{background:#050806e8;border-color:#243329}.engine-node{box-shadow:0 0 60px #65d43d18}
+.signal-track{background:linear-gradient(90deg,transparent,#159447,#65d43d,#b6ff3b,transparent)}
+.lock{color:#8ee64b;text-shadow:0 0 50px #65d43d44}.page-hero{background:radial-gradient(circle at 80% 20%,#39b84a14,transparent 34%),radial-gradient(circle at 68% 36%,#b6ff3b08,transparent 26%)}
