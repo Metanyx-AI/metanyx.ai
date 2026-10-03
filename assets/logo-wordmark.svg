@@ -1,11 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 96" role="img" aria-labelledby="t">
-<title id="t">Metanyx</title>
-<g transform="translate(4 8)">
-  <rect width="80" height="80" rx="17" fill="#07090d" stroke="#1a2230"/>
-  <path d="M14 59V21L36 45" fill="none" stroke="#adff2f" stroke-width="7" stroke-linejoin="miter"/>
-  <path d="M66 59V21L44 45" fill="none" stroke="#adff2f" stroke-width="7" stroke-linejoin="miter"/>
-  <rect x="36.5" y="41.5" width="7" height="7" transform="rotate(45 40 45)" fill="#f3f6fa"/>
-</g>
-<text x="105" y="63" fill="#f3f6fa" font-size="51" font-weight="700" letter-spacing="-2.2" font-family="Inter,Segoe UI,Arial,sans-serif">Metanyx</text>
-<path d="M108 76h188" stroke="#adff2f" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 122" role="img" aria-labelledby="t">
+<title id="t">Metanyx — Predict. Adapt. Trade.</title>
+<defs><linearGradient id="a" x1="0" y1="0" x2="100%" y2="100%"><stop stop-color="#8BE7FF"/><stop offset=".3" stop-color="#2563FF"/><stop offset=".68" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+<g transform="translate(4 5) scale(.205)"><path d="M94 382V118l161 166 67-68v116l-67 68-97-100v82z" fill="url(#a)"/><path d="M418 382V94L286 222l58 58 10-10v112z" fill="url(#a)"/></g>
+<text x="116" y="67" fill="#F8FAFC" font-size="52" font-weight="600" letter-spacing="13" font-family="Inter,Segoe UI,Arial,sans-serif">META</text>
+<text x="348" y="67" fill="url(#a)" font-size="52" font-weight="600" letter-spacing="13" font-family="Inter,Segoe UI,Arial,sans-serif">NYX</text>
+<text x="120" y="102" fill="#8EA0B8" font-size="13" font-weight="500" letter-spacing="8" font-family="Inter,Segoe UI,Arial,sans-serif">PREDICT. ADAPT. TRADE.</text>
 </svg>
