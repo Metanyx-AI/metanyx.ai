@@ -41,3 +41,7 @@ h2 span,h3 span,.capability>span,.principles span,.story-kicker,.story-card>stro
 .page-hero{background:radial-gradient(circle at 80% 20%,#2563ff16,transparent 34%),radial-gradient(circle at 68% 36%,#8b5cf60c,transparent 26%)}
 .graphic-hero:after{content:"PREDICT. ADAPT. TRADE.";position:absolute;right:7vw;bottom:36px;color:#6b7d96;font:500 9px monospace;letter-spacing:.4em}
 @media(max-width:900px){.brand-logo{width:160px}.hero:after,.graphic-hero:after{display:none}}
+
+/* Unified Metanyx identity: brand name is always a single visual unit */
+.brand-logo{width:210px;max-width:100%;height:auto}.footer-logo{width:235px}
+@media(max-width:900px){.brand-logo{width:178px}}
