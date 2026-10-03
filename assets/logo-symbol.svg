@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="t">
-<title id="t">Metanyx symbol</title>
-<defs>
- <linearGradient id="a" x1="64" y1="80" x2="430" y2="430" gradientUnits="userSpaceOnUse"><stop stop-color="#8BE7FF"/><stop offset=".28" stop-color="#2563FF"/><stop offset=".64" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
- <linearGradient id="b" x1="420" y1="65" x2="130" y2="430" gradientUnits="userSpaceOnUse"><stop stop-color="#3157FF"/><stop offset=".55" stop-color="#7C4DFF"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
- <filter id="g" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="14" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-</defs>
-<rect width="512" height="512" rx="112" fill="#07111F"/>
-<path d="M94 382V118l161 166 67-68 0 116-67 68L158 300v82z" fill="url(#a)" filter="url(#g)"/>
-<path d="M418 382V94L286 222l58 58 10-10v112z" fill="url(#b)" filter="url(#g)"/>
-<path d="M94 118l64 65v199H94z" fill="#8BE7FF" opacity=".42"/>
-<path d="M418 94l-64 62v226h64z" fill="#3157FF" opacity=".62"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="t"><title id="t">Metanyx signal mark</title><defs><linearGradient id="g" x1="90" y1="410" x2="430" y2="95" gradientUnits="userSpaceOnUse"><stop stop-color="#2563FF"/><stop offset=".52" stop-color="#7C4DFF"/><stop offset="1" stop-color="#22D3EE"/></linearGradient><filter id="gl" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><rect width="512" height="512" rx="112" fill="#07111F"/><path d="M90 356l84-83 60 54 91-115 97-57" fill="none" stroke="url(#g)" stroke-width="34" stroke-linecap="square" stroke-linejoin="miter" filter="url(#gl)"/><path d="M318 155h104v104" fill="none" stroke="#22D3EE" stroke-width="34" stroke-linecap="square"/><circle cx="174" cy="273" r="13" fill="#F8FAFC"/><circle cx="234" cy="327" r="13" fill="#F8FAFC"/></svg>
